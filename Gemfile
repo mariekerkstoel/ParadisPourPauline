@@ -1,0 +1,16 @@
+source 'https://rubygems.org'
+ruby '2.4.0'
+
+
+gem 'capybara'
+gem 'data_mapper'
+gem 'dm-postgres-adapter'
+gem 'json'
+gem 'pg'
+gem 'pry'
+gem 'rspec'
+gem 'rake'
+gem 'require_all'
+gem 'simplecov'
+gem 'simplecov-console'
+gem 'sinatra'
